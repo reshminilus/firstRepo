@@ -1,2 +1,3 @@
 #resh
-<h1>This is an about me page</h1>
+<h1>Reshmi Nilus</h1>
+<h6>This page will tell you more about me </h6>
